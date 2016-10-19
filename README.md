@@ -4,7 +4,7 @@ Simple app that presents all features of A2ui.
 
 # Examples live 
 
-If you are interested only about final effect see our demo live at: [a2ui-examples.codeweaver.pl](a2ui-examples.codeweaver.pl)
+If you are interested only about final effect see our demo live at: [http://a2ui-examples.codeweaver.pl](http://a2ui-examples.codeweaver.pl)
 
 # Installation
 
